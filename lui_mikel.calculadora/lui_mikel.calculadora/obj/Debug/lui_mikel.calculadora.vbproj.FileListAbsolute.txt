@@ -1,0 +1,26 @@
+c:\users\luis\documents\visual studio 2015\Projects\lui_mikel.calculadora\lui_mikel.calculadora\bin\Debug\lui_mikel.calculadora.exe.config
+c:\users\luis\documents\visual studio 2015\Projects\lui_mikel.calculadora\lui_mikel.calculadora\bin\Debug\lui_mikel.calculadora.exe
+c:\users\luis\documents\visual studio 2015\Projects\lui_mikel.calculadora\lui_mikel.calculadora\bin\Debug\lui_mikel.calculadora.pdb
+c:\users\luis\documents\visual studio 2015\Projects\lui_mikel.calculadora\lui_mikel.calculadora\bin\Debug\lui_mikel.calculadora.xml
+c:\users\luis\documents\visual studio 2015\Projects\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.vbprojResolveAssemblyReference.cache
+c:\users\luis\documents\visual studio 2015\Projects\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.Form1.resources
+c:\users\luis\documents\visual studio 2015\Projects\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.Resources.resources
+c:\users\luis\documents\visual studio 2015\Projects\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.vbproj.GenerateResource.Cache
+c:\users\luis\documents\visual studio 2015\Projects\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.exe
+c:\users\luis\documents\visual studio 2015\Projects\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.xml
+c:\users\luis\documents\visual studio 2015\Projects\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.pdb
+E:\lui_mikel.calculadora\lui_mikel.calculadora\bin\Debug\lui_mikel.calculadora.exe.config
+E:\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.exe
+E:\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.xml
+E:\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.pdb
+C:\Users\Alumno\Desktop\lui_mikel.calculadora\lui_mikel.calculadora\bin\Debug\lui_mikel.calculadora.exe.config
+C:\Users\Alumno\Desktop\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.exe
+C:\Users\Alumno\Desktop\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.xml
+C:\Users\Alumno\Desktop\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.pdb
+C:\Users\Alumno\Desktop\lui_mikel.calculadora\lui_mikel.calculadora\bin\Debug\lui_mikel.calculadora.exe
+C:\Users\Alumno\Desktop\lui_mikel.calculadora\lui_mikel.calculadora\bin\Debug\lui_mikel.calculadora.pdb
+C:\Users\Alumno\Desktop\lui_mikel.calculadora\lui_mikel.calculadora\bin\Debug\lui_mikel.calculadora.xml
+C:\Users\Alumno\Desktop\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.Form1.resources
+C:\Users\Alumno\Desktop\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.Resources.resources
+C:\Users\Alumno\Desktop\lui_mikel.calculadora\lui_mikel.calculadora\obj\Debug\lui_mikel.calculadora.vbproj.GenerateResource.Cache
